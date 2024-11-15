@@ -4,8 +4,7 @@
 <p align="center">:woman_technologist: M.S. in Computer Science (Graduate in Dec 2024)</p>
 <hr>
 
-- 💻 I used to intern at <a href="https://www.columbia.edu">**Bloomberg**</a>, <a href="https://www.yext.com">**Yext**</a>, and <a href="https://www.antgroup.com/en">**Ant Group**</a>
-- 🔍 I'm looking for **Software Engineer New Grad/Entry-Level positions**
+- 💻 I used to intern at <a href="https://www.bloomberg.com/company/">**Bloomberg**</a>, <a href="https://www.yext.com">**Yext**</a>, and <a href="https://www.antgroup.com/en">**Ant Group**</a>
 
 <h3 align="left">Programming Languages</h3>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
